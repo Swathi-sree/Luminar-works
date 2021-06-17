@@ -1,4 +1,4 @@
-var num1=3
+var num1=8
 var num2=8
 console.log("Numbers are "+num1+" and "+num2)
 
@@ -11,3 +11,6 @@ console.log(num2)
 
 else
 console.log("both are equal")
+
+// console.log(num1>num2?num1:num2)
+// console.log(num1>num2?num1:num2>num1?num2:"Both are equal")

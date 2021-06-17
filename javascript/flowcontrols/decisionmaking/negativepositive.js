@@ -9,3 +9,5 @@ console.log("num is negative")
 
 else
 console.log("num is zero")
+
+// console.log(num>0?"positive":num<0?"negative":"num is zero")
